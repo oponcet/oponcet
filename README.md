@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently PhD student in CMS experiment.<br>💻 I'm working on search for CP violation Higgs to tau tau analysis.<br>⚡️ Also working on irradiation dommage on Inner Tracker for CMS Phase-2.<br>🦕 My favorite dinosaur is the parasaurolophus
+🔭 I'm currently a PhD student in the CMS experiment..<br>💻  I'm working on a search for CP violation in Higgs to tau-tau analysis.<br>⚡️ I'm also working on impact of irradiation damage to the Inner Tracker for CMS Phase-2.<br>🦕 My favorite dinosaur is the Parasaurolophus.
 
 
 ## 🌐 Socials:
