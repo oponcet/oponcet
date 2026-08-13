@@ -1,5 +1,5 @@
 # 🐧 About Me:
-🔭 Currently a PhD student in the CMS experiment.<br>💻  Working on a search for CP violation in Higgs to tau-tau analysis.<br>⚡️ Also working on impact of irradiation damage to the Inner Tracker for CMS Phase-2.<br>🦕 My favorite dinosaur is the Parasaurolophus.
+🔭 Currently a Postdoc at University at Buffalo in the CMS experiment.<br>💻  Working on a search for Vector Boson Scattering analysis.<br>⚡️ Also working on development of the tk-fe-daq software for Inner Tracker for CMS Phase-2.<br>🦕 My favorite dinosaur is the Parasaurolophus.
 
 
 ## 🌐 Socials:
